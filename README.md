@@ -61,7 +61,7 @@ A comprehensive, all-in-one productivity command center built with **React + Vit
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/surya-ai.git
+git clone https://github.com/suryax096/surya-ai.git
 cd surya-ai
 
 # Install dependencies
